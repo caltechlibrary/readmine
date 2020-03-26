@@ -5,7 +5,7 @@ This is an example README file demonstrating a suggested README file structure f
 
 [![License](https://img.shields.io/badge/License-CC0-lightgray.svg?style=flat-square)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Latest release](https://img.shields.io/badge/Latest_release-1.0.2-b44e88.svg?style=flat-square)](http://shields.io)
-[![DOI](http://img.shields.io/badge/DOI-10.22002%20%2f%20D1.1253-blue.svg?style=flat-square)](https://data.caltech.edu/records/1253)
+[![DOI](http://img.shields.io/badge/DOI-10.22002%20%2f%20D1.1390-blue.svg?style=flat-square)](https://data.caltech.edu/records/1390)
 
 
 Table of contents
@@ -19,7 +19,7 @@ Table of contents
 * [Contributing](#contributing)
 * [License](#license)
 * [Authors and history](#authors-and-history)
-* [Acknowledgments](#authors-and-acknowledgments)
+* [Acknowledgments](#acknowledgments)
 
 
 Introduction
@@ -69,7 +69,7 @@ The [Introduction](#introduction) and [Usage](#usage) sections are described abo
 
 In the [Known issues and limitations](#known-issues) section, summarize any notable issues and/or limitations of your software.  The [Getting help](#getting-help) section should inform readers of how they can contact you, or at least, how they can report problems they may encounter.  The [Contributing](#contributing) section is optional; if your repository is for a project that accepts open-source contributions, then this section is where you can explain to readers how they can go about making contributions.
 
-The [License](#license) section should state any copyright asserted on the project materials as well as the terms of use of the software, files and other materials found in the project repository.  Finally, the [Authors and Acknowledgments](#authors-and-acknowledgments) section should inform readers who the authors are; it is also a place where you can acknowledge other contributions to the work and the use of other people's software or tools.
+The [License](#license) section should state any copyright asserted on the project materials as well as the terms of use of the software, files and other materials found in the project repository.  Finally, the [Authors and history](#authors-and-history) section should inform readers who the authors are; it is also a place where you can acknowledge other contributions to the work and the use of other people's software or tools.
 
 ### Additional options
 
